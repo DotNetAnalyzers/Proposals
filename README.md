@@ -18,7 +18,7 @@ The name **Analyzers** stems from the name of the node in **Solution Explorer** 
 
 ## My analyzer is hosted elsewhere
 
-While this organization was formed to allow maximum flexibility for users to develop analyzers, we understand that in some situations it might not make sense to place an analyzer repository here. If you would like to improve exposure to your analyzer without creating (or moving) your main repository to the DotNetAnalyzers organization, please review issue #6 for some ideas about how to proceed.
+While this organization was formed to allow maximum flexibility for users to develop analyzers, we understand that in some situations it might not make sense to place an analyzer repository here. If you would like to improve exposure to your analyzer without creating (or moving) your main repository to the DotNetAnalyzers organization, please review [issue #6](https://github.com/DotNetAnalyzers/Proposals/issues/6) for some ideas about how to proceed.
 
 ## Guidelines
 
